@@ -1,3 +1,10 @@
+
+/*
+author: Wajedien Samuels
+Student no.: 216287820
+Small program to display testing
+ */
+
 package za.ac.cput.VerificationApp;
 
 public class Verification {
